@@ -1,4 +1,4 @@
-# GOAL: Tensorflow Developer Certificate
+# GOAL: Tensorflow Developer Certificate in 7 Weeks
 
 - **Curriculum:** 3 Domains -> Computer Vision, Natural Language Processing & Time Series Data
 - **Plan:**
