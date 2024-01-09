@@ -1,4 +1,0 @@
-- [x] Getting started with Tensorflow
-- [x] Neural Network Regression with Tensorflow
-- [x] Neural Network Classification with Tensorflow
-- [ ] Convolution Neural Networks & Computer Vision with Tensorflow

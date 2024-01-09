@@ -25,10 +25,10 @@ class BaselineModel (keras.Model):
             keras.layers.Dense         (units= 1) # !IMP: NO ACTIVATION. Logits is pre-activation function.
         ])
 
-        self.layers_list = self.model.layers
+        self.layers_list = self.model.layers # !IMP: model.layers gives you list of all the layers. 
 
     def call(self, input_batch):
-        
+        # !IMP: LOGITS = pre activation function result. 
         output_logits       = self.model(input_batch)
         output_activations  = keras.activation.sigmoid(output_logits)
 

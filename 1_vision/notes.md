@@ -1,4 +1,11 @@
 
+![](https://geps.dev/progress/40)
+- [x] Getting started with Tensorflow
+- [x] Neural Network Regression with Tensorflow
+- [x] Neural Network Classification with Tensorflow
+- [ ] Convolution Neural Networks & Computer Vision with Tensorflow
+- [ ] Transfer Learning
+- [ ] Image Classification: Kaggle Competition
 
 ### Why Tensorflow is worse than Pytorch
    1. Tensorflow 2.15 & Keras 3.0 conflicts of installation. Pytorch doesn't have that problem.
