@@ -6,6 +6,7 @@
 - [ ] Convolution Neural Networks & Computer Vision with Tensorflow
 - [ ] Transfer Learning
 - [ ] Image Classification: Kaggle Competition
+  -  [Fish Classification for Fisheries Monitoring](https://www.kaggle.com/competitions/the-nature-conservancy-fisheries-monitoring/data)
 
 ### Why Tensorflow is worse than Pytorch
    1. Tensorflow 2.15 & Keras 3.0 conflicts of installation. Pytorch doesn't have that problem.
