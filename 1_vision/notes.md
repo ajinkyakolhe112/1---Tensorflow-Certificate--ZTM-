@@ -1,30 +1,29 @@
 
-![](https://geps.dev/progress/40)
+## Computer Vision Status
+Image Classification with TF = ![](https://geps.dev/progress/60)
 - [x] Getting started with Tensorflow
 - [x] Neural Network Regression with Tensorflow
 - [x] Neural Network Classification with Tensorflow
-- [ ] Convolution Neural Networks & Computer Vision with Tensorflow
+- [x] Convolution Neural Networks & Computer Vision with Tensorflow
 - [ ] Transfer Learning
 - [ ] Image Classification: Kaggle Competition
   -  [Fish Classification for Fisheries Monitoring](https://www.kaggle.com/competitions/the-nature-conservancy-fisheries-monitoring/data)
 
-### Why Tensorflow is worse than Pytorch
-   1. Tensorflow 2.15 & Keras 3.0 conflicts of installation. Pytorch doesn't have that problem.
-   2. Lots of inconsistent & incoherent features. Pytorch is coherent in features. 
-   3. **Annoying to make some things work, in Tensorflow**
-2. Conclusion
-    1. Use Pytorch for training loop, if you want to use tensorflow, use it just for model architecture.
-    2. Future: Using Jax or Tensorflow for speedup. Then use keras 3.0, same api, and multiple backends. No need to learn different libraries. 
+### Annoying Things
+1. Tensorflow 2.15 & Keras 3.0 conflicts of installation. Had to use Colab
+2. Tensorflow attempting advanced/fancy features, but incoherent & incosistent. Pytorch is coherent & simple, despite not having advanced feature goals. (Einstein: Genius of Simplicity)
+3. Code can be succint, easy to read & understand & write, if using Keras. (Advantage)
+4. Time Consuming
+   1. Dataset downloading. (Colab needs redownload)
+   2. Dataset processing
+   3. Writing glue code for many small things. (Dataset download, process, visualize | Model etc...)
+   4. Model training time. Time to train 1 batch, time to train entire dataset
 
 ### Best Practices Discovered
-1. **Aim for experiment running via one script execution**
-2. Get the end to end experiment working first
-3. Rename variables for clear understanding
+1. Simplify code, reduce glue code / boilderplate code
+2. **Aim for experiment running via one script execution**
+3. Get the end to end experiment working first
+4. Rename variables for clear understanding. (only after end to end pipeline is running not before)
+5. TODO: Upload Dataset & Model & Trained model on **Huggingface**
+6. Use Weights & Biases for experiment tracking.
 
-### Checklist
-
-- [x] downloading **datasets** & starting training.
-  - -> ans: huggingface datasets. standard way of uploading dataset. dataset to dataloader in pytorch & in tensorflow via huggingface
-- [ ] **model**. 
-  - sequential is easy but can't debug properly -> ans: extending model. (2 ways)
-- [ ] **training** loop from that dataset. training loop 
