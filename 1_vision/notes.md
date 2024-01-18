@@ -5,9 +5,10 @@ Image Classification with TF = ![](https://geps.dev/progress/60)
 - [x] Neural Network Regression with Tensorflow
 - [x] Neural Network Classification with Tensorflow
 - [x] Convolution Neural Networks & Computer Vision with Tensorflow
-- [ ] Transfer Learning
+- [x] Transfer Learning
+  - Very very important
+  - Getting to good enough accuracy immediately
 - [ ] Image Classification: Kaggle Competition
-  -  [Fish Classification for Fisheries Monitoring](https://www.kaggle.com/competitions/the-nature-conservancy-fisheries-monitoring/data)
 
 ### Annoying Things
 1. Tensorflow 2.15 & Keras 3.0 conflicts of installation. Had to use Colab
@@ -27,3 +28,8 @@ Image Classification with TF = ![](https://geps.dev/progress/60)
 5. TODO: Upload Dataset & Model & Trained model on **Huggingface**
 6. Use Weights & Biases for experiment tracking.
 
+### **Remaining**
+- [ ] NN visualizations & interpretability
+- [ ] Going beyond Image Classification. Localization, Detection, Segmentation, Generation
+- [ ] Trying Different Computer Vision Competitions
+- [ ] Vision Classic Research Papers
