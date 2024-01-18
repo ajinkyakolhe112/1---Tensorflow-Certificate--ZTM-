@@ -15,7 +15,7 @@
 | ----------- | ------------------ |
 1: **Computer Vision**                  | ![](https://geps.dev/progress/100) |
 1: **Kaggle Competition (CV)**          | ![](https://geps.dev/progress/100) |
-2: NLP                                  | ![](https://geps.dev/progress/0) | 
+2: NLP                                  | ![](https://geps.dev/progress/10) | 
 2: Kaggle Competition (NLP)             | ![](https://geps.dev/progress/0) | 
 3: Timeseries                           | ![](https://geps.dev/progress/0) | 
 3: Kaggle Competition (Timeseries)      | ![](https://geps.dev/progress/0) | 
