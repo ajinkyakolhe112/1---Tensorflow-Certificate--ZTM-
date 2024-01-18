@@ -1,6 +1,6 @@
 
 ## Computer Vision Status
-Image Classification with TF = ![](https://geps.dev/progress/60)
+Image Classification with TF = ![](https://geps.dev/progress/99)
 - [x] Getting started with Tensorflow
 - [x] Neural Network Regression with Tensorflow
 - [x] Neural Network Classification with Tensorflow
