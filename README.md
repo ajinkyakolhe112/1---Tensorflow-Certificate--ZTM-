@@ -13,12 +13,19 @@
 
 |            | Progress       |
 | ----------- | ------------------ |
-1: **Computer Vision**                  | ![](https://geps.dev/progress/100) |
-1: **Kaggle Competition (CV)**          | ![](https://geps.dev/progress/99) |
-2: NLP                                  | ![](https://geps.dev/progress/10) | 
-2: Kaggle Competition (NLP)             | ![](https://geps.dev/progress/0) | 
-3: Timeseries                           | ![](https://geps.dev/progress/0) | 
-3: Kaggle Competition (Timeseries)      | ![](https://geps.dev/progress/0) | 
+1: Computer Vision                      | ![](https://geps.dev/progress/100) |
+2: NLP                                  | ![](https://geps.dev/progress/80) | 
+3: **Timeseries**                           | ![](https://geps.dev/progress/0) | 
+
+### Kaggle Competitions by their complexity
+1. Computer Vision
+   1. Dog Breed Classification. (Getting Started for Beginners) ![](https://geps.dev/progress/99)
+2. NLP
+   1. Text Classification (Getting Started for Beginners)![](https://geps.dev/progress/80)
+   2. **CommonLit - Evaluate Student Summaries** (Real Scale) ![](https://geps.dev/progress/0)
+3. Time Series
+   1. Harmful Brain Activity Classification (Real Competition)
+
 
 ### Don't take Exam Shortcuts
 1. Don't rely on preparing from question bank or remembering code 
