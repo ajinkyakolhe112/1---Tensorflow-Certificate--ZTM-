@@ -15,7 +15,7 @@
 | ----------- | ------------------ |
 1: Computer Vision                      | ![](https://geps.dev/progress/100) |
 2: NLP                                  | ![](https://geps.dev/progress/80) | 
-3: **Timeseries**                           | ![](https://geps.dev/progress/0) | 
+3: **Timeseries**                       | ![](https://geps.dev/progress/50) | 
 
 ### Kaggle Competitions by their complexity
 1. Computer Vision
@@ -24,7 +24,7 @@
    1. Text Classification (Getting Started for Beginners)![](https://geps.dev/progress/80)
    2. **CommonLit - Evaluate Student Summaries** (Real Scale) ![](https://geps.dev/progress/0)
 3. Time Series
-   1. Harmful Brain Activity Classification (Real Competition)
+   1. Harmful Brain Activity Classification (Real Competition) ![](https://geps.dev/progress/0)
 
 
 ### Don't take Exam Shortcuts
