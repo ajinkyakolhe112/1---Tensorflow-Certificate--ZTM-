@@ -15,9 +15,12 @@ Terms
 1. Nature of time series
    1. Trend
    2. Seasonality
-   3. Auto-correlation.
-      1. (Random spikes) with (dampening attenuation)
-      2. correlated with delayed & decayed copy of itself / lag
+   3. Auto-correlation -> future value depends on lagged & dampened value of past.
+      1. TERM explaining meaning: lagged & dampened value of past. (auto correlation word doesn't explain its meaning. meaning should be encapsulated in term where we can identify it's meaning)
+      2. (Random spikes) with (dampening attenuation)
+      3. correlated with delayed & decayed copy of itself / lag
+      4. Correlation vs. Autocorrelation -> Correlation measures the relationship between two variables, whereas autocorrelation measures the relationship of a variable with lagged values of itself.
+   4. auto regression -> past values to predict future value
 Think of
 1. trend without seasonality
 2. trend with seasonaility
